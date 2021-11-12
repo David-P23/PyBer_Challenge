@@ -13,7 +13,7 @@ There are several significant observations to be made while looking at the data 
 ![Rides by City Type](https://user-images.githubusercontent.com/91306342/141432316-0d0ecf74-3106-4dfc-9cef-10e72d11497b.PNG)
 
 As cities became more urban several trends emerged:
--Total rides, total fares, and total drivers all increased, likely due to the highter population
+-Total rides, total fares, and total drivers all increased, likely due to the higher population
 -Average fare per ride and average fare per driver all decreased
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/91306342/141433236-e858c7c5-af0f-44b6-a839-20c1758a975c.png)
