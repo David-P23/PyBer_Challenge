@@ -1,12 +1,12 @@
-## PyBer Challenge
+# PyBer Challenge
 
-# Overview
+## Overview
 
 The purpose of this analysis was to comb through ride sharing data nd determine key metrics that will allow V. Isualize to compare 
 rural, suburban, and urban cities' rides. This included total rides, drivers, and fares, as well as average fares per ride and per
 driver. This data was organized to various tables.
 
-# Results
+## Results
 
 There are several significant observations to be made while looking at the data when sorted by city type
 
@@ -18,7 +18,7 @@ As cities became more urban several trends emerged:
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/91306342/141433236-e858c7c5-af0f-44b6-a839-20c1758a975c.png)
 
-# Summary
+## Summary
 
 The data may be used to consider the following:
 
